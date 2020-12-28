@@ -13,3 +13,6 @@
 
  ### Switch Branch
      'git checkout <branchname>'
+
+  Conflicts : When two branches contains different changes in the same file it raise a conflict
+ and it must be resolve by 'manually'.
