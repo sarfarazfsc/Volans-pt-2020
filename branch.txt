@@ -1,0 +1,15 @@
+
+
+
+  ### Branch related information
+
+ ### Create Branch
+    
+      'git branch <branch-name>'
+
+ ### See all the branch
+      
+      'git branch'
+
+ ### Switch Branch
+     'git checkout <branchname>'
