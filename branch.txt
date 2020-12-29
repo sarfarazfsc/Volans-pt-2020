@@ -16,6 +16,7 @@
 
  ## Merging
 
+
     ## Merge changes from branchA into branchB
 
       'git checkout branchB'
