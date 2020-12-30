@@ -1,7 +1,6 @@
 
 
 
-
 #Git basics
 
 ##Install Git 
@@ -28,3 +27,6 @@
 ##Check commit status
 
   $ git log
+
+## Git Version
+   'git --version'
