@@ -1,0 +1,21 @@
+##Remote Repository on github basics
+
+##Change branch name
+'git branch -m <branchname>'
+
+##Add remote 
+'git remote add <remotename> <github-url>
+
+##Check remotes
+'git remote -v'
+
+##push local repository to remote
+'git checkout master'
+'git push -u <remotename> <mainbranch>'
+ex: git push -u origin master
+
+##Clone of Remote repository to local 
+'git clone <remote-url>'
+
+##To fetch all the changes from remote to local
+'git fetch <remotename> <main-branch>'
